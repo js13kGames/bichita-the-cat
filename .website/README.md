@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - casual
 directors_cut: https://ekros.github.io/bichita-the-cat-js13k/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
